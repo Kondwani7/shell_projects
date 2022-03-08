@@ -1,0 +1,4 @@
+hey friends
+we are going to use this file
+to move around and the the "mv" command
+whilst getting better at vim.
