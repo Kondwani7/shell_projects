@@ -1,0 +1,13 @@
+cd
+pwd
+ls -list
+cp -copy
+rm remove
+echo print
+cat - contatente
+less 
+grep - grab data from a certain file or directory
+mkdir -make directory
+touch make an empty
+chmod - change mode e.g 777 gives a shell file read write and execute access to everyone
+man man - a manual for commands
